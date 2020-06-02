@@ -11,11 +11,10 @@
 ### GIT
 - Pro Git book ([RU](https://git-scm.com/book/ru/v2)/[EN](https://git-scm.com/book/en/v2)) 
 - [Wiki about Git and main commands](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
-- https://realpython.com/ 
 - [Visualization of Git commands](https://learngitbranching.js.org/?NODEMO=&locale=ru_RU)
 
 
-- []()<details><summary>[Advanced Git commands:](https://realpython.com/advanced-git-for-pythonistas/)</summary>
+- []()<details><summary>[Advanced Git commands (RealPython):](https://realpython.com/advanced-git-for-pythonistas/)</summary>
 
   * Revision (Relative Referencing,Revision Ranges)
   * Handling Interruptions: git stash (git stash save and git stash pop, git stash list, git stash show, git stash pop vs. git stash apply, git stash drop, git stash Example: Pulling Into a Dirty Tree)
