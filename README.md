@@ -1,14 +1,31 @@
 # Resources
-### NLP  
+## Python
+#### Pandas
+- []()<details><summary>[Python Pandas: Tricks & Features You May Not Know (RealPython):](https://realpython.com/python-pandas-tricks/)</summary>
+
+  * Configure Options & Settings at Interpreter Startup
+  * Make Toy Data Structures With Pandas’ Testing Module
+  * Take Advantage of Accessor Methods
+  * Create a DatetimeIndex From Component Columns
+  * Use Categorical Data to Save on Time and Space
+  * Introspect Groupby Objects via Iteration
+  * Use This Mapping Trick for Membership Binning
+  * Understand How Pandas Uses Boolean Operators
+  * Load Data From the Clipboard
+  * Write Pandas Objects Directly to Compressed Format
+
+</details>
+
+#### NLP  
 - Word2Vec: [An implementation guide to Word2Vec using NumPy and Google Sheets](https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281)
 
-### Neural Networks:
+#### Neural Networks:
 - [3Blue1Brown (YT) - Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-### SQL:
+## SQL:
 - 2sql.ru 
 
-### GIT
+## GIT
 - Pro Git book ([RU](https://git-scm.com/book/ru/v2)/[EN](https://git-scm.com/book/en/v2)) 
 - [Wiki about Git and main commands](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 - [Visualization of Git commands](https://learngitbranching.js.org/?NODEMO=&locale=ru_RU)
@@ -25,5 +42,5 @@
 
 </details>
 
-### Statistics
+## Statistics
 - Bayes theorem: [3Blue1Brown (YT) Bayes theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)
