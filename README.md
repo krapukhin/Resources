@@ -26,6 +26,7 @@
 - Word2Vec: [An implementation guide to Word2Vec using NumPy and Google Sheets](https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281)
 
 #### Neural Networks:
+- [Градиентный спуск по косточкам](https://habr.com/ru/post/467185/)
 - [3Blue1Brown (YT) - Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ## SQL:
@@ -35,6 +36,7 @@
 - Pro Git book ([RU](https://git-scm.com/book/ru/v2)/[EN](https://git-scm.com/book/en/v2)) 
 - [Wiki about Git and main commands](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 - [Visualization of Git commands](https://learngitbranching.js.org/?NODEMO=&locale=ru_RU)
+- [Explain Git with d3](https://onlywei.github.io/explain-git-with-d3/)
 
 
 - []()<details><summary>[Advanced Git commands (RealPython):](https://realpython.com/advanced-git-for-pythonistas/)</summary>
@@ -47,6 +49,9 @@
   * Resolving Merge Conflicts (diff3 Format, git mergetool)
 
 </details>
+
+## Docker
+- [Docker Cheatsheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/ru) 
 
 ## Statistics
 - Bayes theorem: [3Blue1Brown (YT) Bayes theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)
